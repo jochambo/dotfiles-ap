@@ -15,4 +15,4 @@ if [[ $REPLY =~ Y ]]; then
   bash osx.sh
 fi
 
-
+echo "CONGRATULATIONS! Your development machine is all set!\n\nIf you are using iTERM, you may want to change your text colors. To do so, go to iTERM > Preferences > Colors."
