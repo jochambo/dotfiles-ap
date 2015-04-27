@@ -12,7 +12,7 @@ Before you run any of the setup scripts, there are some things you should do fir
 cd Your/Favorite/Path
 git clone https://github.com/ascensionpress/dotfiles.git
 cd dotfiles
-bash laptop.sh
+bash dev_machine.sh
 ```
 
 ## Manual Customizations
