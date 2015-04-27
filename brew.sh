@@ -70,7 +70,7 @@ brew install qt
 brew install libyaml
 brew install icu4c
 brew install autoconf
-RUBY_VERSION=1.9.3-p551
+RUBY_VERSION=1.9.3-p550
 brew install rbenv
 brew install ruby-build
 
