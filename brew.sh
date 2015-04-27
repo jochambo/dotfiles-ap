@@ -58,7 +58,8 @@ brew install wp-cli
 brew install composer
 
 # node
-if ! command -v brew >/dev/null; then
+if ! command -v bower >/dev/null; then
+	# TODO may need to be installed manually
 	curl http://npmjs.org/install.sh | sh
 	npm install -g grunt
 	npm install -g bower
